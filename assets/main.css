@@ -83,9 +83,9 @@
   */
  blockquote {
 	color: #828282;
-    border-top: 2px solid #2c2c2c;
-    border-bottom: 2px solid #2c2c2c;
-    padding: 0px 80px 30px 80px;
+	border-left: 4px solid #2c2c2c;
+	padding: 0px 30px 20px 30px;
+	margin-left: 45px;
     font-size: 18px;
     letter-spacing: -1px;
     font-style: italic;
@@ -102,23 +102,7 @@ blockquote::before {
     width: 30px;
     height: 30px;
     content: "";
-    position: relative;
     top: 25px;
-    left: -35px;
-    transform: rotate(180deg);
-}
-
-blockquote::after {
-	background-image: url("./double-quotes.png");
-    background-size: 30px 30px;
-    display: inline-block;
-    width: 30px;
-    height: 30px;
-    content: "";
-    position: relative;
-	bottom: 15px;
-    right: -35px;
-	float: right;
 }
 
  /**
