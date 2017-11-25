@@ -17,7 +17,7 @@ title: Juan blog
 email: juanemilioferrer@outlook.com
 description: >- # this means to ignore newlines until "baseurl:"
   Where feelings and code get all mixed up
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/blog" # the subpath of your site, e.g. /blog
 url: "https://juanferrer.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: ferrerclasico
 github_username: JuanFerrer
