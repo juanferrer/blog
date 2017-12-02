@@ -15,7 +15,7 @@ Current state of the game:
 - Weapon and HP drops
 - Basic animations
 
-![Screenshot](../assets/survival-part-1-general.PNG)
+![Screenshot]({{ site.baseurl }}/assets/survival-part-1-general.PNG)
 
 It has been a couple of months since I started this project ([first commit](https://github.com/JuanFerrer/Survival/commit/8e5d3ae9d85b8d5306ec87a62c251ddb7351c585) on 24 June) and it starts to look like a game. Many challenges have come up, and here I explain how they were solved.
 
@@ -23,7 +23,7 @@ It has been a couple of months since I started this project ([first commit](http
 
 Correctly orienting the bullets was one of the first problems I encountered. Projectiles were being shot from the player towards the target. To get that nice stretched out bullet that we love to see in games, I had to give some length to the bullet. The problem now was to make it *face* the target.
 
-![Long shot capture](../assets/survival-part-1-long-shot.PNG)
+![Long shot capture]({{ site.baseurl }}/assets/survival-part-1-long-shot.PNG)
 
 So, on spawn, I position the bullet, reset its lifetime and make it look towards the target.
 
