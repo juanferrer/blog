@@ -1,11 +1,11 @@
 ---
 layout: post
-title: Survival
+title: Survival part 1
 permalink: survival-part-1
 published: true
 ---
 
-# Survival
+# Survival part 1
 
 Current state of the game:
 
