@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Survival
-permalink: survival-part-1
+permalink: test
 published: false
 ---
 
