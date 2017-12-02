@@ -5,8 +5,6 @@ permalink: survival-part-1
 published: true
 ---
 
-# Survival part 1
-
 Current state of the game:
 
 - Basic logic implemented
