@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Survival part 1
+title: Red Palito part 1
 permalink: red-palito-part-1
 published: true
 ---
