@@ -105,7 +105,7 @@ moveTowardPlayer() {
 
 ### Giants
 
-![Giant]({{ site.baseurl }}/assets/red-palito-part-2-giant.PNG)
+![Giant]({{ site.baseurl }}/assets/red-palito-part-2-giant.png)
 
 Giants are, needless to say, bigger and slower. They hit and tank much harder. Other than that, quite similar to the base enemy.
 
