@@ -5,7 +5,8 @@ permalink: red-palito-part-2
 published: true
 ---
 
-[Part 1]({{ site.baseurl}}/red-palito-part-1)<br>
+[Part 1]({{ site.baseurl}}/red-palito-part-1)
+
 [Part 2]({{ site.baseurl}}/red-palito-part-2)
 
 Newly implemented:
