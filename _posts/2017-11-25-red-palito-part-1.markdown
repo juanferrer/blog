@@ -5,7 +5,7 @@ permalink: red-palito-part-1
 published: true
 ---
 
-[Part 1]({{ site.baseurl}}/red-palito-part-1)
+[Part 1]({{ site.baseurl}}/red-palito-part-1)<br>
 [Part 2]({{ site.baseurl}}/red-palito-part-2)
 
 Current state of the game:
