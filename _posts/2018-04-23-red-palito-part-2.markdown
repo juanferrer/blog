@@ -61,6 +61,8 @@ The two new enemies were:
 
 Zoomies are smaller and faster. When they see the player, they lock position and start charging for a moment. After that, they dash to the position they locked. If they hit the player, they die.
 
+![Zoomies dash]({{ site.baseurl }}/assets/red-palito-part-2-zoomie-dash.gif)
+
 The dash is an interesting mechanic. I modified the `moveTowardPlayer` method of the new class, adding a dash option.
 
 ``` js
